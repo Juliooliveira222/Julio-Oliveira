@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> JULIO OLIVEIRA | WDD 130 </title>
+    <title> Julio Oliveira | wdd130 </title>
 </head>
 
 <body>
@@ -15,7 +15,7 @@
         </nav>
     </header>
     <main>
-        <h1> JULIO OLIVEIRA | WDD 130</h1>
+        <h1> JULIO OLIVEIRA | WDD130</h1>
         <img src="imagens/perfil.png" alt="Foto de Perfil Julio" width="200">
         <p>Olá meu nome é Júlio tenho 35 anos, Sou natural de Estância-SE. Atualmente moro em
             Caçapava-SP, onde estou por cerca 7 anos.</p>
