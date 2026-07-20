@@ -40,9 +40,11 @@ main {
 
 aside {
     width: 20rem;
-
+    background-color: #eee;
     color: #333;
     text-align: center;
+    padding: 1rem;
+    margin: 1rem;
 }
 
 aside img {
