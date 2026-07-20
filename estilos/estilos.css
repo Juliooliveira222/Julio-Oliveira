@@ -42,18 +42,11 @@ aside {
     width: 20rem;
     color: #333;
     text-align: center;
-    position: relative;
 }
 
 aside img {
     width: 200px;
     height: auto;
-}
-
-aside h2 {
-    position: absolute;
-    top: 50px;
-    left: 150px;
 }
 
 footer {
