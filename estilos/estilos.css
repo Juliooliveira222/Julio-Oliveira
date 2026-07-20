@@ -52,6 +52,10 @@ aside img {
     height: auto;
 }
 
+aside h2 {
+    position: absolute;
+}
+
 footer {
     margin-top: 15px;
     border-top: 1px solid #000;
@@ -61,13 +65,13 @@ footer {
 
 /* Seletores de classe */
 
-.Caixa {
+Caixa {
     border: 1px solid rgb(0, 0, 0, 0.2);
     padding: 1rem;
     margin: 1rem;
     background-color: #eee;
 }
 
-.indentacao {
+indentacao {
     padding-left: 2rem;
 }
