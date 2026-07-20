@@ -63,3 +63,7 @@ footer {
     margin: 1rem;
     background-color: #eee;
 }
+
+.indentacao {
+    padding-left: 2rem;
+}
