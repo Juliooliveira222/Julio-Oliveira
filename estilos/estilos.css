@@ -29,7 +29,6 @@ main img {
     padding: 2px;
     box-shadow: 0 0 30px gray;
     float: right;
-
 }
 
 p {
@@ -54,7 +53,7 @@ aside img {
 
 aside h2 {
     position: absolute;
-    top: 0px;
+    top: 10px;
     left: 0px;
 }
 
