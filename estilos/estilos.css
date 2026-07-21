@@ -53,13 +53,13 @@ aside img {
 
 aside h2 {
     position: absolute;
-    top: 50px;
+    top: 0px;
     left: 0px;
 }
 
 footer {
     margin-top: 15px;
-    border-top: 1px solid #f6f4f4;
+    border-top: 1px solid #1e1d1d;
     text-align: center;
 
 }
